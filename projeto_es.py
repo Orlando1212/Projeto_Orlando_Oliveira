@@ -17,6 +17,9 @@ class B():
     print(MB1())
   def MB2():
     print(MB2())
+    
+  def MB3():
+    print(MB3())
 
 class C():
   C1 = ""
@@ -26,3 +29,19 @@ class C():
     print(MC1())
   def MC2():
     print(MC2())
+    
+  def MC3():
+    print(MC3())
+    
+  class D():
+    
+    D1 = "hello"
+    D2 = 5.2
+    
+    def MD1():
+      print("MD1")
+    
+    def MD2():
+      print("MD2")
+      
+  
